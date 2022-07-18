@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user-loan/user-loan.iml" filepath="$PROJECT_DIR$/user-loan/user-loan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/users-loan.iml" filepath="$PROJECT_DIR$/.idea/users-loan.iml" />
+    </modules>
+  </component>
+</project>
